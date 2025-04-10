@@ -1,1 +1,4 @@
-这是一个测试，怎么新建文件夹啊
+sum = 0
+for i in range(1, 101):
+    sum += i
+print("Sum:", sum)
